@@ -1,16 +1,19 @@
-## Hi there 👋
+## About Me
 
-<!--
-**ivanyoga01/ivanyoga01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Position:** Fullstack Developer (Backend Focus) at Dietela Indonesia  
+**Website:** [dietela.id](https://dietela.id)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technical Skills
+- **Languages & Frameworks:** Node.js, Express.js, MySQL, PHP, CodeIgniter, Laravel
+
+### Experience
+- Currently building and maintaining [dietela.id](https://dietela.id) and subdomains like `nama.dietela.id`.
+
+### Interests
+- Gaming
+- Anime & Manga
+
+### Motto
+**Work Hard, Play Harder**
